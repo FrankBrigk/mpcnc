@@ -1,5 +1,6 @@
 # Druckerteile
 
+
 ## STL
 Heruntergeladene Bauteilmodelle von Thingiverse: https://www.thingiverse.com/thing:4550789
 
@@ -23,3 +24,7 @@ Geslicte Dateien, welche der 3D-Drucker zum Drucken der Teile benötigt.
 <p> Set5 = 96,77 g
 <p> Set6 = 81,32 g
 <p> <b>Summe = 1180,69 g </b>
+  
+  ## Filamentbestellung (durch Max)
+2x 800g orange
+3x 800g schwarz
