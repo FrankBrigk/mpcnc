@@ -25,6 +25,6 @@ Geslicte Dateien, welche der 3D-Drucker zum Drucken der Teile benötigt.
 <p> Set6 = 81,32 g
 <p> <b>Summe = 1180,69 g </b>
   
-  ## Filamentbestellung
+  ## Filamentbestellung (durch Max)
 2x 800g orange
 3x 800g schwarz
