@@ -33,3 +33,16 @@ QTY |	Part Name	| Infill	| Color | Sliced
 
 Color A = Schwarz
 Color B = Orange
+
+# Filamentbedarf
+## Orange
+<p> Set1 = 426,15 g
+<p> Set3 = 426,88 g
+<p> <b>Summe = 853,03 g </b>
+
+## Schwarz
+<p> Set2 = 558,57 g
+<p> Set4 = 444,03 g
+<p> Set5 = 96,77 g
+<p> Set6 = 81,32 g
+<p> <b>Summe = 1180,69 g </b>
