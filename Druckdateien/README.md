@@ -1,5 +1,9 @@
 # Druckerteile
 
+## Filamentbestellung
+2x 800g orange
+1x 2500g schwarz
+
 ## STL
 Heruntergeladene Bauteilmodelle von Thingiverse: https://www.thingiverse.com/thing:4550789
 
