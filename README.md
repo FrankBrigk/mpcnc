@@ -21,13 +21,13 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 **TOPs**
 
-Pizza
+- Pizza
 
 **ToDos**
 
-Workbench aufbauen
-Elektronik testen
-Roadmap/Milestones festlegen
+- Workbench aufbauen
+- Elektronik testen
+- Roadmap/Milestones festlegen
 
 **Zum nächsten Termin**
 
@@ -37,21 +37,21 @@ Roadmap/Milestones festlegen
 **TOPs**
 
 Pizza
-~~Druck in .3 Schichtdicke~~ abgelehnt wegen Konflikt Schichtdicken Prusa MK3S & Mini
-~~Handling Github~~
-~~kritisch: gewählte Z-Achsenlänge von 150mm~~ auf 81 mm Z-Zustellung geeinigt
-~~Railsupports~~ werden nach Inbetriebnahme nach Bedarf erstellt
-~~Kommunikationskanal~~ Gruppe im Messengerdienst Signal
-~~Slicing & Druckaufteilung~~ gemäß Tabelle im Readme unter Druckdateien
+- ~~Druck in .3 Schichtdicke~~ abgelehnt wegen Konflikt Schichtdicken Prusa MK3S & Mini
+- ~~Handling Github~~
+- ~~kritisch: gewählte Z-Achsenlänge von 150mm~~ auf 81 mm Z-Zustellung geeinigt
+- ~~Railsupports~~ werden nach Inbetriebnahme nach Bedarf erstellt
+- ~~Kommunikationskanal~~ Gruppe im Messengerdienst Signal
+- ~~Slicing & Druckaufteilung~~ gemäß Tabelle im Readme unter Druckdateien
 
 **ToDos**
 
-~~Unboxing~~
-Workbench aufbauen
-Elektronik testen
-Roadmap/Milestones festlegen
+- ~~Unboxing~~
+- Workbench aufbauen
+- Elektronik testen
+- Roadmap/Milestones festlegen
 
 **Zum nächsten Termin**
 
-Tischplatte
-Styrodur
+- Tischplatte
+- Styrodur
