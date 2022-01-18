@@ -2,9 +2,9 @@
 
 # Primo Printed Parts List
 
-QTY |	Part Name	| Infill	| Color | Sliced
+QTY |	Part Name	| Infill	| Color | Sliced | In Charge
 --- |   ---- | ----| ---- | ---
-2 |	Corner Bottom |	45%+	| B | Set3
+2 |	Corner Bottom |	45%+	| B | Set3 | 
 2 |	Corner Bottom Mirrored |	45%+ |	B | Set3
 2 |	Corner Top |	45%+ |	A | Set4
 2 |	Corner Top Mirrored |	45%+ |A | Set4
@@ -31,7 +31,7 @@ QTY |	Part Name	| Infill	| Color | Sliced
 2 |	Core Z Clamp 2 |	45%+ |	A | Set2
 3 |	Core Clamp |	45%+ |	A | Set5
 1 |	Core ClampY |	45%+ |	A | Set5
-1 |	Core |	70% |	B | Set1
+1 |	Core |	70% |	B | Set1 | Max
 
 
 Color A = Schwarz
