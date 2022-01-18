@@ -1,7 +1,7 @@
 # mpcnc
 Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
-##Bau einer Mostly Printed CNC##
+## Bau einer Mostly Printed CNC
 
 **Source**: [title](https://www.v1engineering.com)
 
@@ -9,8 +9,8 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 **Steuerung**: Estlcam via Laptop mit Estlcam V11
 
-##Dokumentation Communitytreffen##
+## Dokumentation Communitytreffen
 
-###2022/01/18###
+### 2022/01/18
 
 
