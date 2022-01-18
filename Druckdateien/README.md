@@ -4,7 +4,7 @@
 
 QTY |	Part Name	| Infill	| Color | Sliced | In Charge
 --- |   ---- | ---- | ---- | --- | ---
-2 |	Corner Bottom |	45%+	| B | Set3 | 
+2 |	Corner Bottom |	45%+	| B | Set3 | Max
 2 |	Corner Bottom Mirrored |	45%+ |	B | Set3 | 
 2 |	Corner Top |	45%+ |	A | Set4| 
 2 |	Corner Top Mirrored |	45%+ |A | Set4| 
