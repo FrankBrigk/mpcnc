@@ -20,9 +20,11 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 ### 2022/01/25
 
 **TOPs**
+
 Pizza
 
 **ToDos**
+
 Workbench aufbauen
 Elektronik testen
 Roadmap/Milestones festlegen
@@ -33,6 +35,7 @@ Roadmap/Milestones festlegen
 ### 2022/01/18
 
 **TOPs**
+
 Pizza
 ~~Druck in .3 Schichtdicke~~ abgelehnt wegen Konflikt Schichtdicken Prusa MK3S & Mini
 ~~Handling Github~~
@@ -42,11 +45,13 @@ Pizza
 ~~Slicing & Druckaufteilung~~ gemäß Tabelle im Readme unter Druckdateien
 
 **ToDos**
+
 ~~Unboxing~~
 Workbench aufbauen
 Elektronik testen
 Roadmap/Milestones festlegen
 
 **Zum nächsten Termin**
+
 Tischplatte
 Styrodur
