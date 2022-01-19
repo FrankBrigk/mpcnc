@@ -22,6 +22,7 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 **TOPs**
 
 - Pizza
+- Crimpzange prüfen und Dupontstecker bestellen 
 
 **ToDos**
 
