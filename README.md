@@ -23,6 +23,7 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 - Pizza
 - Crimpzange prüfen und Dupontstecker bestellen 
+- Hour & Pizza Count
 
 **ToDos**
 
