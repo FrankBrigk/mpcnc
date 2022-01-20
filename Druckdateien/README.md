@@ -6,15 +6,15 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge
 --- |   ---- | ---- | ---- | --- | ---
 2 |	Corner Bottom |	45%+	| B | Set3 | Max (2)
 2 |	Corner Bottom Mirrored |	45%+ |	B | Set3 | 
-2 |	Corner Top |	45%+ |	A | Set4| 
-2 |	Corner Top Mirrored |	45%+ |A | Set4|
+2 |	Corner Top |	45%+ |	A | Set4| markus
+2 |	Corner Top Mirrored |	45%+ |A | Set4| markus
 2 |	Lower Belt |	45%+ |	A | Set2| markus
 2 |	Lower Belt Mirrored |	45%+ |	A | Set2| markus
 2 |	Upper Belt |	45%+ |	B | Set3| 
 2 |	Upper Belt Mirrored |	45%+ |	B | Set3| 
 4 |	Corner Leg Lock |	45%+ |	B | Set3| 
 4 |	Feet |	45%+ |	A | Set4| Max (2)
-2 |	Wire Darryl |	45%+ |	A | Set4| 
+2 |	Wire Darryl |	45%+ |	A | Set4| markus
 4 |	Stop Block (Dual only) |	45%+ |	A | Set4| 
 <b>Trucks   </b>
 2 |	Truck |	45%+ |	A | Set2| markus
@@ -24,8 +24,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge
 1 |	Z Motor |	45%+ |	A | Set6| 
 1 |	Z Coupler |	45%+ |	A | Set6| 
 2 |	Nut Trap |	45%+ |	A | Set5|
-1 |	Upper Tool Plate |	45%+ |	A | Set4| 
-1 |	Lower Tool Plate |	45%+ |	A | Set4| 
+1 |	Upper Tool Plate |	45%+ |	A | Set4| markus
+1 |	Lower Tool Plate |	45%+ |	A | Set4| markus
 <b>Center Assembly	</b>	
 2 |	Core Z Clamp 1 |	45%+ |	A | Set2| markus
 2 |	Core Z Clamp 2 |	45%+ |	A | Set2| markus
