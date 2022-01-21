@@ -4,14 +4,14 @@
 
 QTY |	Part Name	| Infill	| Color | Sliced | In Charge
 --- |   ---- | ---- | ---- | --- | ---
-2 |	Corner Bottom |	45%+	| B | Set3 | Max (2)
-2 |	Corner Bottom Mirrored |	45%+ |	B | Set3 | 
+2 |	Corner Bottom |	45%+	| B | Set3 | Max
+2 |	Corner Bottom Mirrored |	45%+ |	B | Set3 | Max
 2 |	Corner Top |	45%+ |	A | Set4|
 2 |	Corner Top Mirrored |	45%+ |A | Set4 |
 2 |	Lower Belt |	45%+ |	A | Set2| markus
 2 |	Lower Belt Mirrored |	45%+ |	A | Set2| markus
-2 |	Upper Belt |	45%+ |	B | Set3| 
-2 |	Upper Belt Mirrored |	45%+ |	B | Set3| 
+2 |	Upper Belt |	45%+ |	B | Set3| Max
+2 |	Upper Belt Mirrored |	45%+ |	B | Set3| Max
 4 |	Corner Leg Lock |	45%+ |	B | Set3| 
 4 |	Feet |	45%+ |	A | Set4| Max (2)
 2 |	Wire Darryl |	45%+ |	A | Set4|
