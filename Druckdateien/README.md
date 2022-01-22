@@ -8,8 +8,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 2 |	Corner Bottom Mirrored |	45%+ |	B | Set3 | Max | 2/2
 2 |	Corner Top |	45%+ |	A | Set4| Max | 2/2
 2 |	Corner Top Mirrored |	45%+ |A | Set4 | Max | 2/2
-2 |	Lower Belt |	45%+ |	A | Set2| markus | 
-2 |	Lower Belt Mirrored |	45%+ |	A | Set2| markus |
+2 |	Lower Belt |	45%+ |	A | Set2| markus | 2/2
+2 |	Lower Belt Mirrored |	45%+ |	A | Set2| markus | 2/2
 2 |	Upper Belt |	45%+ |	B | Set3| Max | 2/2
 2 |	Upper Belt Mirrored |	45%+ |	B | Set3| Max | 2/2
 4 |	Corner Leg Lock |	45%+ |	B | Set3| Max | 4/4
