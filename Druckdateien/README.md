@@ -17,8 +17,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 2 |	Wire Darryl |	45%+ |	A | Set4| Max |
 4 |	Stop Block (Dual only) |	45%+ |	A | Set4| Max |
 <b>Trucks   </b>
-2 |	Truck |	45%+ |	A | Set2| markus |
-2 |	Truck Mirrored |	45%+ |	A | Set2| markus |
+2 |	Truck |	45%+ |	A | Set2| markus | 2/2
+2 |	Truck Mirrored |	45%+ |	A | Set2| markus | 2/2
 4 |	Truck Clamp |	45%+ |	B | Set3| Max | 4/4
 <b>Z-Axis  </b>
 1 |	Z Motor |	45%+ |	A | Set6| markus | 
