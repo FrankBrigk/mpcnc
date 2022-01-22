@@ -24,8 +24,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge
 1 |	Z Motor |	45%+ |	A | Set6| markus
 1 |	Z Coupler |	45%+ |	A | Set6| markus
 2 |	Nut Trap |	45%+ |	A | Set5| markus
-1 |	Upper Tool Plate |	45%+ |	A | Set4|
-1 |	Lower Tool Plate |	45%+ |	A | Set4|
+1 |	Upper Tool Plate |	45%+ |	A | Set4| markus
+1 |	Lower Tool Plate |	45%+ |	A | Set4| markus
 <b>Center Assembly	</b>	
 2 |	Core Z Clamp 1 |	45%+ |	A | Set2| markus
 2 |	Core Z Clamp 2 |	45%+ |	A | Set2| markus
