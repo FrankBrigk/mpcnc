@@ -27,8 +27,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 1 |	Upper Tool Plate |	45%+ |	A | Set4| Max | 
 1 |	Lower Tool Plate |	45%+ |	A | Set4| Max | 
 <b>Center Assembly	</b>	
-2 |	Core Z Clamp 1 |	45%+ |	A | Set2| markus |
-2 |	Core Z Clamp 2 |	45%+ |	A | Set2| markus |
+2 |	Core Z Clamp 1 |	45%+ |	A | Set2| markus | 2/2
+2 |	Core Z Clamp 2 |	45%+ |	A | Set2| markus | 2/2
 3 |	Core Clamp |	45%+ |	A | Set5| markus | 3/3
 1 |	Core ClampY |	45%+ |	A | Set5| markus| 1/1
 1 |	Core |	70% |	B | Set1 | Max | 1/1
