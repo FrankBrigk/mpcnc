@@ -21,8 +21,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 2 |	Truck Mirrored |	45%+ |	A | Set2| markus | 2/2
 4 |	Truck Clamp |	45%+ |	B | Set3| Max | 4/4
 <b>Z-Axis  </b>
-1 |	Z Motor |	45%+ |	A | Set6| markus | läuft noch
-1 |	Z Coupler |	45%+ |	A | Set6| markus | läuft noch
+1 |	Z Motor |	45%+ |	A | Set6| markus | 1/1
+1 |	Z Coupler |	45%+ |	A | Set6| markus | 1/1
 2 |	Nut Trap |	45%+ |	A | Set5| markus | 2/2
 1 |	Upper Tool Plate |	45%+ |	A | Set4| Max | 
 1 |	Lower Tool Plate |	45%+ |	A | Set4| Max | 
