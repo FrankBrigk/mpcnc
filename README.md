@@ -17,13 +17,17 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
+Total Working Hours: 12.5 | Pizzas: 5 | Slices: 40 
+
 ### 2022/01/25
+
+Participants:  | Hours:  | Pizzas: 
 
 **TOPs**
 
 - Pizza
 - Crimpzange prüfen und Dupontstecker bestellen 
-- Hour & Pizza Count
+- ~~Hour & Pizza Count~~
 
 **ToDos**
 
@@ -35,6 +39,10 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 
 ### 2022/01/18
+
+**Facts**
+
+Participants: 5 | Hours: 2.5 | Pizzas: 5
 
 **TOPs**
 
