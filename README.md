@@ -17,7 +17,7 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-Total Working Hours: 12.5 | Pizzas: 5 | Slices: 40 
+**Total Working Hours: 12.5 | Pizzas: 5 | Slices: 40**
 
 ### 2022/01/25
 
