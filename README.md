@@ -34,6 +34,8 @@ Participants:  | Hours:  | Pizzas:
 **ToDos**
 
 - Workbench aufbauen
+- Rohre für Z-Achse kürzen
+- Montage
 - Elektronik testen
 - Roadmap/Milestones festlegen
 
