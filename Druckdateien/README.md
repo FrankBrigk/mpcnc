@@ -14,8 +14,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 2 |	Upper Belt Mirrored |	45%+ |	B | Set3| Max | 2/2
 4 |	Corner Leg Lock |	45%+ |	B | Set3| Max | 4/4
 4 |	Feet |	45%+ |	A | Set4| Max | 4/4
-2 |	Wire Darryl |	45%+ |	A | Set4| Max |
-4 |	Stop Block (Dual only) |	45%+ |	A | Set4| Max |
+2 |	Wire Darryl |	45%+ |	A | Set4| Max | 2/2
+4 |	Stop Block (Dual only) |	45%+ |	A | Set4| Max | 4/4
 <b>Trucks   </b>
 2 |	Truck |	45%+ |	A | Set2| markus | 2/2
 2 |	Truck Mirrored |	45%+ |	A | Set2| markus | 2/2
