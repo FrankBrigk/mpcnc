@@ -21,6 +21,8 @@ Total Working Hours: 12.5 | Pizzas: 5 | Slices: 40
 
 ### 2022/01/25
 
+**Facts**
+
 Participants:  | Hours:  | Pizzas: 
 
 **TOPs**
