@@ -29,6 +29,8 @@ Participants:  | Hours:  | Pizzas:
 
 - Pizza
 - Crimpzange prüfen und Dupontstecker bestellen 
+- Drag Chains? Make vs. buy
+- Mid rail supports?
 - ~~Hour & Pizza Count~~
 
 **ToDos**
