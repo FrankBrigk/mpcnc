@@ -13,7 +13,7 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 2 |	Upper Belt |	45%+ |	B | Set3| Max | 2/2
 2 |	Upper Belt Mirrored |	45%+ |	B | Set3| Max | 2/2
 4 |	Corner Leg Lock |	45%+ |	B | Set3| Max | 4/4
-4 |	Feet |	45%+ |	A | Set4| Max | **2/4**
+4 |	Feet |	45%+ |	A | Set4| Max | 4/4
 2 |	Wire Darryl |	45%+ |	A | Set4| Max |
 4 |	Stop Block (Dual only) |	45%+ |	A | Set4| Max |
 <b>Trucks   </b>
@@ -24,8 +24,8 @@ QTY |	Part Name	| Infill	| Color | Sliced | In Charge | done
 1 |	Z Motor |	45%+ |	A | Set6| markus | 1/1
 1 |	Z Coupler |	45%+ |	A | Set6| markus | 1/1
 2 |	Nut Trap |	45%+ |	A | Set5| markus | 2/2
-1 |	Upper Tool Plate |	45%+ |	A | Set4| Max | 
-1 |	Lower Tool Plate |	45%+ |	A | Set4| Max | 
+1 |	Upper Tool Plate |	45%+ |	A | Set4| Max | 1/1
+1 |	Lower Tool Plate |	45%+ |	A | Set4| Max | 1/1
 <b>Center Assembly	</b>	
 2 |	Core Z Clamp 1 |	45%+ |	A | Set2| markus | 2/2
 2 |	Core Z Clamp 2 |	45%+ |	A | Set2| markus | 2/2
