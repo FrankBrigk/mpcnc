@@ -17,29 +17,46 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 12.5 | Pizzas: 5 | Slices: 40**
+**Total Working Hours: 33.5 | Pizzas: 10 | Slices: 80**
+
+### 2022/02/01
+
+**Facts**
+
+Participants:   | Hours:   | Pizzas: 
+
+**TOPs**
+
+- Pizza
+
+**ToDos**
+
+- Montage fortsetzen
+
+**Zum nächsten Termin**
+
+
 
 ### 2022/01/25
 
 **Facts**
 
-Participants:  | Hours:  | Pizzas: 
+Participants: 6  | Hours: 3.5  | Pizzas: 5
 
 **TOPs**
 
-- Pizza
-- Crimpzange prüfen und Dupontstecker bestellen 
-- Drag Chains? Make vs. buy
-- Mid rail supports?
+- ~~Pizza~~
+- ~~Crimpzange prüfen und Dupontstecker bestellen ~~
+- ~~Drag Chains? Make vs. buy~~ werden bei Bedarf selbst gedruckt
+- ~~Mid rail supports?~~ dann
 - ~~Hour & Pizza Count~~
 
 **ToDos**
 
-- Workbench aufbauen
-- Rohre für Z-Achse kürzen
-- Montage
-- Elektronik testen
-- Roadmap/Milestones festlegen
+- ~~Workbench aufbauen~~
+- ~~Rohre für Z-Achse kürzen~~
+- ~~Montage Schlitten und Fräserhalterung~~
+- ~~Roadmap/Milestones festlegen~~
 
 **Zum nächsten Termin**
 
