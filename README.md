@@ -7,7 +7,7 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 **Mod**: Bauraum (X|Y|Z): 980 x 1500 x 81 mm
 
-**Steuerung**: Estlcam via Laptop mit Estlcam V11
+**Steuerung**: Estlcam V11 via Laptop
 
 **Wunschkonzert**
 
@@ -17,13 +17,13 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 33.5 | Pizzas: 10 | Slices: 80**
+**Total Working Hours: 56.25 | Pizzas: 16.5 | Slices: 132**
 
-### 2022/02/01
+### 2022/02/08
 
 **Facts**
 
-Participants:   | Hours:   | Pizzas: 
+Participants:   | Hours:    | Pizzas: 
 
 **TOPs**
 
@@ -31,11 +31,36 @@ Participants:   | Hours:   | Pizzas:
 
 **ToDos**
 
-- Montage fortsetzen
+- Y-Adapter anfertigen
+- Elektronik verdrahten
 
 **Zum nächsten Termin**
 
 
+### 2022/02/01
+
+**Facts**
+
+Participants: 7  | Hours: 3.5   | Pizzas: 6.5
+
+**TOPs**
+
+- ~~Pizza~~
+
+**ToDos**
+
+- ~~Päckchen auspacken~~
+- ~~Montage fortsetzen~~
+- ~~Opferplatte montieren~~
+- ~~Z-Core fertig montieren~~
+- ~~Gehäuse für Elektronik herstellen~~
+- Y-Adapter anfertigen
+- Elektronik verdrahten
+
+**Zum nächsten Termin**
+
+- fehlende Schrauben kaufen
+- Eurokisten für Zubehör
 
 ### 2022/01/25
 
