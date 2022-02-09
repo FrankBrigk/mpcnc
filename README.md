@@ -23,7 +23,7 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 **Facts**
 
-Participants:   | Hours:    | Pizzas: 
+Participants: 3   | Hours:  3.5  | Pizzas: 2
 
 **TOPs**
 
@@ -31,10 +31,18 @@ Participants:   | Hours:    | Pizzas:
 
 **ToDos**
 
-- Y-Adapter anfertigen
+- Rohr Konstruktion fixieren
+- Achsen mobtieren
+- Beginn Z Achse Montage 
 - Elektronik verdrahten
 
 **Zum nächsten Termin**
+
+- Y-Adapter anfertigen
+- Werkzeug Halterung fertig verschrauben
+- Z Achse fertig montieren
+- Planung der Kabelführung
+- Gt2 Belts einziehen
 
 
 ### 2022/02/01
