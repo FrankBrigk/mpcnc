@@ -17,7 +17,52 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 56.25 | Pizzas: 16.5 | Slices: 132**
+**Total Working Hours: 82.75 | Pizzas: 21.5 | Slices: 172**
+
+### 2022/02/22
+
+**Facts**
+
+Participants: -   | Hours: -  | Pizzas: -
+
+**TOPs**
+
+- Pizza
+
+**ToDos**
+
+- Planung der Kabelführung
+- Einzug der Kabel
+- defekten Stepper-Driver tauschen
+- defekten Schlitten tauschen
+- Gt2 Belts einziehen
+- Mid-Span Supports einbauen
+
+**Zum nächsten Termin**
+
+
+
+### 2022/02/15
+
+**Facts**
+
+Participants: 4   | Hours: 4  | Pizzas: 3
+
+**TOPs**
+
+- ~~Pizza~~
+
+**ToDos**
+
+- ~~Y-Adapter anfertigen~~
+- ~~Werkzeug Halterung fertig verschrauben~~
+- ~~Z Achse fertig montieren~~
+- ~~rechtwinklig ausrichten~~
+
+**Zum nächsten Termin**
+
+- Planung der Kabelführung
+- Gt2 Belts einziehen
 
 ### 2022/02/08
 
@@ -31,10 +76,10 @@ Participants: 3   | Hours:  3.5  | Pizzas: 2
 
 **ToDos**
 
-- Rohr Konstruktion fixieren
-- Achsen mobtieren
-- Beginn Z Achse Montage 
-- Elektronik verdrahten
+- ~~Rohr Konstruktion fixieren~~
+- ~~Achsen mobtieren~~
+- ~~Beginn Z Achse Montage ~~
+- ~~Elektronik verdrahten~~
 
 **Zum nächsten Termin**
 
