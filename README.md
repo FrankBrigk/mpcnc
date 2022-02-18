@@ -31,6 +31,7 @@ Participants: -   | Hours: -  | Pizzas: -
 
 **ToDos**
 
+- Ausrichtung X/Y diskutieren
 - Planung der Kabelführung
 - Einzug der Kabel
 - defekten Stepper-Driver tauschen
