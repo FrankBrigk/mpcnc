@@ -14,33 +14,57 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 - Absaugung
 - Steuerboard
 - SD-Karten/Wifi-Anbindung
+- Spann-/Anschlagraster
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 82.75 | Pizzas: 21.5 | Slices: 172**
+**Total Working Hours: 98.75 | Pizzas: 24.5 | Slices: 196**
+
+### 2022/03/01
+
+**Facts**
+
+Participants: -  | Hours: -  | Pizzas: -
+
+**TOPs**
+
+- ~~Pizza~~
+
+**ToDos**
+
+- Einzug der Kabel
+- Drag Chain
+- defekten Stepper-Driver tauschen
+
+**Zum nächsten Termin**
+
+
+
 
 ### 2022/02/22
 
 **Facts**
 
-Participants: -   | Hours: -  | Pizzas: -
+Participants: 4   | Hours: 4  | Pizzas: 3
 
 **TOPs**
 
-- Pizza
+- ~~Pizza~~
 
 **ToDos**
 
-- Ausrichtung X/Y diskutieren
-- Planung der Kabelführung
+- ~~Ausrichtung X/Y diskutieren~~ bleibt wie bestehen wg. Einsehbarkeit Fräsfläche
+- ~~Planung der Kabelführung~~
 - Einzug der Kabel
 - defekten Stepper-Driver tauschen
-- defekten Schlitten tauschen
-- Gt2 Belts einziehen
-- Mid-Span Supports einbauen
+- ~~defekten Schlitten tauschen~~
+- ~~Gt2 Belts einziehen~~
+- ~~Mid-Span Supports einbauen~~
+- ~~Schleppkette~~
 
 **Zum nächsten Termin**
 
+- Drag Chain (bestellt)
 
 
 ### 2022/02/15
