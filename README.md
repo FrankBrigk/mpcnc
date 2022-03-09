@@ -18,9 +18,9 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 98.75 | Pizzas: 24.5 | Slices: 196**
+**Total Working Hours: 118.75 | Pizzas: 29.5 | Slices: 196**
 
-### 2022/03/01
+### 2022/03/15
 
 **Facts**
 
@@ -28,13 +28,30 @@ Participants: -  | Hours: -  | Pizzas: -
 
 **TOPs**
 
+- Pizza
+
+**ToDos**
+
+
+**Zum nächsten Termin**
+
+
+### 2022/03/08
+
+**Facts**
+
+Participants: 5  | Hours: 4  | Pizzas: 5
+
+**TOPs**
+
 - ~~Pizza~~
 
 **ToDos**
 
-- Einzug der Kabel
-- Drag Chain
-- defekten Stepper-Driver tauschen
+- ~~Einzug der Kabel~~
+- ~~Drag Chain Halterungen planen und konstruieren~~
+- ~~defekten Stepper-Driver tauschen~~
+- ~~Probefahrt!~~
 
 **Zum nächsten Termin**
 
