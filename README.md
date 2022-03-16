@@ -18,20 +18,23 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 118.75 | Pizzas: 29.5 | Slices: 196**
+**Total Working Hours: 129.25 | Pizzas: 31.5 | Slices: 252**
 
 ### 2022/03/15
 
 **Facts**
 
-Participants: -  | Hours: -  | Pizzas: -
+Participants: 3  | Hours: 3.5  | Pizzas: 2
 
 **TOPs**
 
-- Pizza
+- ~~Pizza~~
 
 **ToDos**
 
+- ~~Drag Chain Halterungen nachbessern~~
+- ~~Drag Chains und Halterungen installieren~~
+- ~~Z-Achse anschließen~~
 
 **Zum nächsten Termin**
 
