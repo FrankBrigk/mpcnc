@@ -18,7 +18,46 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 
 ## Dokumentation Communitytreffen
 
-**Total Working Hours: 129.25 | Pizzas: 31.5 | Slices: 252**
+**Total Working Hours: 144.25 | Pizzas: 31.5 | Slices: 252**
+
+### 2022/03/29
+
+**Facts**
+
+Participants: -  | Hours: -  | Pizzas: -
+
+**TOPs**
+
+- Pizza
+
+**ToDos**
+
+- Absaugung?
+- Lochraster?
+- Motorsteuerung
+- Tastplatte
+- Notaus?
+
+**Zum nächsten Termin**
+
+### 2022/03/22
+
+**Facts**
+
+Participants: 5  | Hours: 3  | Pizzas: 4
+
+**TOPs**
+
+- ~~Pizza~~
+
+**ToDos**
+
+- ~~Z-Achse ansteuern~~
+- ~~Testzeichnungen~~
+- **~~Testfräsungen!!!!~~**
+
+**Zum nächsten Termin**
+
 
 ### 2022/03/15
 
