@@ -15,6 +15,7 @@ Dokumentation &amp; Austausch zum Communityprojekt MPCNC
 - Steuerboard
 - SD-Karten/Wifi-Anbindung
 - Spann-/Anschlagraster
+- Trucks für X-Achse anpassen (Nut) um den Bauraum der Fräße zu vergrößern?
 
 ## Dokumentation Communitytreffen
 
