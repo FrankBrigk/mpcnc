@@ -8,4 +8,36 @@ Der Unterschied entsteht, da die Trucks auf der X-Achse anders als vorgesehen au
 
 # Komponentenübersicht
 
-![MPCNC Komponenten](MPCNC_Component_View.png)
+Die Komponentenübersicht zeigt alle im Kontext der MPCNC genutzen Komponenten und deren Schnittstellen. 
+
+<img src="MPCNC_Component_View.png" style="background-color: white;">
+
+
+## Estlcam
+Estlcam wird in der Version 11 verwendet
+
+## Motoren
+Es werden Nema 17 Motoren verwendet.
+
+## Endschalter
+Die Endschalter sind öffner und werden in reihe geschalten. Das hat den Vorteil, dass Kabelbrüche erkannt werden können, da in diesen Fall die Schalter immer als Ausgelöst erkannt werden. 
+
+Die Reihenschaltung ist möglich, da Estlcam bei der Referenzfahrt in folgender Sequenz vorgeht:
+ 
+- Einlernen der Z-Achse 
+- Einlernen der X-Achse
+- Einlernen der Y-Achse
+
+Das Einlernen beinhaltet das Verfahren der Achse bis zum Endanschlag, anschließendes reversieren um einen konfigurierbaren Weg, nochmals Verfahren bis zur Achse und ein erneutes reversieren.
+
+Das zweite Verfahren ist eine genaue Messfahrt um den Endanschlag so genau wie möglich zu ermitteln um anhand der vorherigen Messung Pulsverluste zu ermitteln.
+
+## Tastplatte
+Maße: 
+
+
+# CNC Shield v3
+
+## Pinout
+
+<img src="CNC Shield v3.jpg" style="background-color: white;">
