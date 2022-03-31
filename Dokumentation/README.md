@@ -1,10 +1,8 @@
-# Dokumentation
 
 Die Dokumentationskaptiel wurden zunächst aus dem Standard Arc42 übernommen und müssen noch diskutiert werden. https://www.arc42.de/
 
-Inhaltsverzeichnis
+**Inhaltsverzeichnis**
 
-- [Dokumentation](#dokumentation)
 - [Einführung und Ziele](#einführung-und-ziele)
 - [Randbedingungen](#randbedingungen)
 - [Kontextabgrenzung](#kontextabgrenzung)
